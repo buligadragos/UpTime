@@ -21,8 +21,6 @@ This repository contains the open-source uptime monitor and status page for [Bul
 
 <!--end: status pages-->
 
-
-
 ## 📄 License
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
