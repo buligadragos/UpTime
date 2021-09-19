@@ -13,13 +13,11 @@ sites:
     url: https://thissitedoesnotexist.koj.co
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  theme: dark
   cname: status.buligadragos.ro
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status
-  themeUrl: https://raw.githubusercontent.com/buligadragos/UpTime/master/assets/BD-theme.css
   navbar:
     - title: Status
       href: /
