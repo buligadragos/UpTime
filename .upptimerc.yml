@@ -16,5 +16,7 @@ status-website:
   cname: status.buligadragos.ro
   logoUrl: https://raw.githubusercontent.com/buligadragos/UpTime/master/assets/logo.svg
   name: Status 📈
-  i18n:
-    footer: [Back to website](https://buligadragos.ro)
+
+# Footer
+i18n:
+  footer: © 2021 [Buliga Dragos](https://buligadragos.ro). All rights reserved.
