@@ -15,8 +15,7 @@ sites:
 status-website:
   themeUrl: https://cdn.jsdelivr.net/gh/buligadragos/UpTime@master/assets/custom-theme.css
   cname: status.buligadragos.ro
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/buligadragos/UpTime/master/assets/logo.svg
   name: Status
   navbar:
     - title: Status
