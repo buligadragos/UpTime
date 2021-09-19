@@ -1,6 +1,5 @@
-# Change these first
-owner: buligadragos # Your GitHub organization or username, where this repository lives
-repo: UpTime # The name of this repository
+owner: buligadragos
+repo: UpTime
 
 sites:
   - name: Google
@@ -13,10 +12,10 @@ sites:
     url: https://thissitedoesnotexist.koj.co
 
 status-website:
-  themeUrl: https://cdn.jsdelivr.net/gh/buligadragos/UpTime@master/assets/custom-theme.css
+  themeUrl: https://cdn.jsdelivr.net/gh/buligadragos/UpTime@master/assets/theme.css
   cname: status.buligadragos.ro
   logoUrl: https://raw.githubusercontent.com/buligadragos/UpTime/master/assets/logo.svg
-  customHeadHtml: "<title>Status 📈</title>"
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+  name: Status 📈
+  
+i18n:
+  footer: [Back to website](https://buligadragos.ro)
