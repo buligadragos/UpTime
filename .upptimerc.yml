@@ -1,6 +1,9 @@
 owner: buligadragos
 repo: UpTime
 
+i18n:
+  footer: [Back to website](https://buligadragos.ro)
+
 sites:
   - name: Google
     url: https://www.google.com
@@ -16,6 +19,3 @@ status-website:
   cname: status.buligadragos.ro
   logoUrl: https://raw.githubusercontent.com/buligadragos/UpTime/master/assets/logo.svg
   name: Status 📈
-  
-i18n:
-  footer: [Back to website](https://buligadragos.ro)
