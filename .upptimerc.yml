@@ -13,7 +13,7 @@ sites:
     url: https://thissitedoesnotexist.koj.co
 
 status-website:
-  themeUrl: https://raw.githubusercontent.com/buligadragos/UpTime/master/static/BDcustom.css
+  themeUrl: https://cdn.jsdelivr.net/gh/buligadragos/UpTime@master/assets/custom-theme.css
   cname: status.buligadragos.ro
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
