@@ -16,7 +16,7 @@ status-website:
   themeUrl: https://cdn.jsdelivr.net/gh/buligadragos/UpTime@master/assets/custom-theme.css
   cname: status.buligadragos.ro
   logoUrl: https://raw.githubusercontent.com/buligadragos/UpTime/master/assets/logo.svg
-  name: BD - Status 📈
+  customHeadHtml: "<title>Status 📈</title>"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
