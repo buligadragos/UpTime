@@ -28,3 +28,15 @@
 .logo.svelte-a08hsz img.svelte-a08hsz{
   width: 3rem;
 }
+
+.logo.svelte-a08hsz.svelte-a08hsz > div:first-of-type{
+  display: none;
+}
+
+.container.svelte-a08hsz.svelte-a08hsz > div:first-of-type{
+  margin: 0 auto;
+}
+
+.logo.svelte-a08hsz.svelte-a08hsz{
+  margin: 0;
+}
