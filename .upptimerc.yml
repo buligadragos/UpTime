@@ -4,11 +4,13 @@ repo: UpTime
 sites:
   - name: Portfolio
     url: https://www.buligadragos.ro
-    icon: https://raw.githubusercontent.com/buligadragos/UpTime/master/assets/logo.svg
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+    icon: https://raw.githubusercontent.com/buligadragos/portfolio/master/src/images/favicon.png
+  - name: GOTO Parking
+    url: https://gotoparking.ro
+    icon: https://gotoparking.ro/wp-content/uploads/2021/03/cropped-favicon-blk-192x192.png
+  - name: Our Collective Experience
+    url: http://www.ourcollectiveexperience.com/
+    icon: http://www.ourcollectiveexperience.com/images/favicon/favicon-96x96.png
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
