@@ -2,8 +2,9 @@ owner: buligadragos
 repo: UpTime
 
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: Portfolio
+    url: https://www.buligadragos.ro
+    icon: https://raw.githubusercontent.com/buligadragos/UpTime/master/assets/logo.svg
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
