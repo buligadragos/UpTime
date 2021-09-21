@@ -22,19 +22,19 @@
     "url": "https://gotoparking.ro",
     "icon": "https://gotoparking.ro/wp-content/uploads/2021/03/cropped-favicon-blk-192x192.png",
     "slug": "goto-parking",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 1108,
-    "timeDay": 1108,
-    "timeWeek": 1108,
-    "timeMonth": 1108,
-    "timeYear": 1108,
+    "status": "up",
+    "uptime": "94.88%",
+    "uptimeDay": "94.88%",
+    "uptimeWeek": "94.88%",
+    "uptimeMonth": "94.88%",
+    "uptimeYear": "94.88%",
+    "time": 1127,
+    "timeDay": 1127,
+    "timeWeek": 1127,
+    "timeMonth": 1127,
+    "timeYear": 1127,
     "dailyMinutesDown": {
-      "2021-09-21": 0
+      "2021-09-21": 23
     }
   },
   {
