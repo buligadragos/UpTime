@@ -4,9 +4,9 @@
     "url": "https://www.buligadragos.ro",
     "icon": "https://raw.githubusercontent.com/buligadragos/portfolio/master/src/images/favicon.png",
     "slug": "portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 615,
     "timeMonth": 639,
     "timeYear": 639,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-29": 0
+    }
   },
   {
     "name": "GOTO Parking",
@@ -23,13 +25,13 @@
     "icon": "https://gotoparking.ro/wp-content/uploads/2021/03/cropped-favicon-blk-192x192.png",
     "slug": "goto-parking",
     "status": "up",
-    "uptime": "98.88%",
-    "uptimeDay": "94.11%",
+    "uptime": "98.99%",
+    "uptimeDay": "94.16%",
     "uptimeWeek": "98.99%",
-    "uptimeMonth": "98.88%",
-    "uptimeYear": "98.88%",
+    "uptimeMonth": "98.99%",
+    "uptimeYear": "98.99%",
     "time": 1202,
-    "timeDay": 1183,
+    "timeDay": 1199,
     "timeWeek": 1206,
     "timeMonth": 1202,
     "timeYear": 1202,
