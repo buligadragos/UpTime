@@ -4,15 +4,19 @@ repo: UpTime
 sites:
   - name: Portfolio
     url: https://www.buligadragos.ro
-    icon: https://raw.githubusercontent.com/buligadragos/portfolio/master/src/images/favicon.png
+    icon: https://cdn.jsdelivr.net/gh/buligadragos/UpTime@master/assets/favicons/portfolio.png
   - name: GOTO Parking
     url: https://gotoparking.ro
-    icon: https://gotoparking.ro/wp-content/uploads/2021/03/cropped-favicon-blk-192x192.png
+    icon: https://cdn.jsdelivr.net/gh/buligadragos/UpTime@master/assets/favicons/gotoparking.png
   - name: Our Collective Experience
     url: http://www.ourcollectiveexperience.com/
-    icon: http://www.ourcollectiveexperience.com/images/favicon/favicon-96x96.png
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+    icon: https://cdn.jsdelivr.net/gh/buligadragos/UpTime@master/assets/favicons/oce.png
+  - name: heartMap
+    url: https://heartmap.ro/
+    icon: https://cdn.jsdelivr.net/gh/buligadragos/UpTime@master/assets/favicons/heartmap.png
+  - name: Broken Test
+    url: https://broketest.ro/
+
 
 status-website:
   themeUrl: https://cdn.jsdelivr.net/gh/buligadragos/UpTime@master/assets/theme.css
