@@ -2,7 +2,7 @@
   {
     "name": "Portfolio",
     "url": "https://www.buligadragos.ro",
-    "icon": "https://raw.githubusercontent.com/buligadragos/portfolio/master/src/images/favicon.png",
+    "icon": "https://cdn.jsdelivr.net/gh/buligadragos/UpTime@master/assets/favicons/portfolio.png",
     "slug": "portfolio",
     "status": "up",
     "uptime": "99.94%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 765,
-    "timeDay": 546,
-    "timeWeek": 545,
-    "timeMonth": 536,
-    "timeYear": 765,
+    "time": 759,
+    "timeDay": 524,
+    "timeWeek": 536,
+    "timeMonth": 534,
+    "timeYear": 759,
     "dailyMinutesDown": {
       "2021-10-01": 20,
       "2021-09-29": 18
@@ -23,7 +23,7 @@
   {
     "name": "GOTO Parking",
     "url": "https://gotoparking.ro",
-    "icon": "https://gotoparking.ro/wp-content/uploads/2021/03/cropped-favicon-blk-192x192.png",
+    "icon": "https://cdn.jsdelivr.net/gh/buligadragos/UpTime@master/assets/favicons/gotoparking.png",
     "slug": "goto-parking",
     "status": "up",
     "uptime": "99.62%",
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.62%",
-    "time": 1253,
-    "timeDay": 1238,
-    "timeWeek": 1291,
-    "timeMonth": 1263,
-    "timeYear": 1253,
+    "time": 1255,
+    "timeDay": 1278,
+    "timeWeek": 1299,
+    "timeMonth": 1265,
+    "timeYear": 1255,
     "dailyMinutesDown": {
       "2021-10-24": 20,
       "2021-10-10": 76,
@@ -49,7 +49,7 @@
   {
     "name": "Our Collective Experience",
     "url": "http://www.ourcollectiveexperience.com/",
-    "icon": "http://www.ourcollectiveexperience.com/images/favicon/favicon-96x96.png",
+    "icon": "https://cdn.jsdelivr.net/gh/buligadragos/UpTime@master/assets/favicons/oce.png",
     "slug": "our-collective-experience",
     "status": "up",
     "uptime": "99.91%",
@@ -57,31 +57,51 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 237,
-    "timeDay": 330,
-    "timeWeek": 270,
-    "timeMonth": 263,
-    "timeYear": 237,
+    "time": 234,
+    "timeDay": 274,
+    "timeWeek": 253,
+    "timeMonth": 259,
+    "timeYear": 234,
     "dailyMinutesDown": {
       "2021-09-30": 53
     }
   },
   {
-    "name": "Test Broken Site",
-    "url": "https://thissitedoesnotexist.koj.co",
-    "icon": "https://favicons.githubusercontent.com/thissitedoesnotexist.koj.co",
-    "slug": "test-broken-site",
-    "status": "down",
+    "name": "heartMap",
+    "url": "https://heartmap.ro/",
+    "icon": "https://cdn.jsdelivr.net/gh/buligadragos/UpTime@master/assets/favicons/heartmap.png",
+    "slug": "heart-map",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
+    "time": 1144,
+    "timeDay": 1144,
+    "timeWeek": 1144,
+    "timeMonth": 1144,
+    "timeYear": 1144,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Broken Test",
+    "url": "https://broketest.ro/",
+    "icon": "https://favicons.githubusercontent.com/broketest.ro",
+    "slug": "broken-test",
+    "status": "down",
+    "uptime": "9.72%",
+    "uptimeDay": "9.72%",
+    "uptimeWeek": "9.72%",
+    "uptimeMonth": "9.72%",
+    "uptimeYear": "9.72%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-03": 0
+    }
   }
 ]
