@@ -12,10 +12,8 @@ sites:
     url: http://www.ourcollectiveexperience.com/
     icon: https://cdn.jsdelivr.net/gh/buligadragos/UpTime@master/assets/favicons/oce.png
   - name: heartMap
-    url: https://heartmapbroke.ro/
+    url: https://heartmap.ro/
     icon: https://cdn.jsdelivr.net/gh/buligadragos/UpTime@master/assets/favicons/heartmap.png
-  - name: Broken Test
-    url: https://broketest.ro/
 
 
 status-website:
