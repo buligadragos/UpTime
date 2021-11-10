@@ -11,7 +11,7 @@ sites:
   - name: Our Collective Experience
     url: http://www.ourcollectiveexperience.com/
     icon: https://cdn.jsdelivr.net/gh/buligadragos/UpTime@master/assets/favicons/oce.png
-  - name: .heartMap
+  - name: heartMap
     url: https://heartmap.ro/
     icon: https://cdn.jsdelivr.net/gh/buligadragos/UpTime@master/assets/favicons/heartmap.png
 
