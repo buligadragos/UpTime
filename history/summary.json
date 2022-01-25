@@ -4,9 +4,9 @@
     "url": "https://www.buligadragos.ro",
     "icon": "https://cdn.jsdelivr.net/gh/buligadragos/UpTime@master/assets/favicons/portfolio.png",
     "slug": "portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
@@ -16,6 +16,7 @@
     "timeMonth": 462,
     "timeYear": 573,
     "dailyMinutesDown": {
+      "2022-01-25": 0,
       "2022-01-22": 17,
       "2021-10-01": 20,
       "2021-09-29": 18
