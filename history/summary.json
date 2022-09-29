@@ -11,16 +11,15 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 490,
-    "timeDay": 349,
-    "timeWeek": 454,
-    "timeMonth": 519,
-    "timeYear": 487,
+    "timeDay": 242,
+    "timeWeek": 434,
+    "timeMonth": 511,
+    "timeYear": 486,
     "dailyMinutesDown": {
       "2022-08-26": 20,
       "2022-01-25": 18,
       "2022-01-22": 17,
-      "2021-10-01": 20,
-      "2021-09-29": 18
+      "2021-10-01": 20
     }
   },
   {
@@ -29,15 +28,15 @@
     "icon": "https://cdn.jsdelivr.net/gh/buligadragos/UpTime@master/assets/favicons/gotoparking.png",
     "slug": "goto-parking",
     "status": "up",
-    "uptime": "98.73%",
+    "uptime": "98.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.51%",
-    "uptimeYear": "98.72%",
+    "uptimeYear": "98.73%",
     "time": 1254,
-    "timeDay": 987,
-    "timeWeek": 1169,
-    "timeMonth": 1140,
+    "timeDay": 1040,
+    "timeWeek": 1139,
+    "timeMonth": 1133,
     "timeYear": 1255,
     "dailyMinutesDown": {
       "2022-09-24": 16,
@@ -112,8 +111,7 @@
       "2021-11-12": 16,
       "2021-10-24": 20,
       "2021-10-10": 76,
-      "2021-10-05": 18,
-      "2021-09-29": 68
+      "2021-10-05": 18
     }
   },
   {
@@ -127,10 +125,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.94%",
-    "time": 234,
-    "timeDay": 42,
-    "timeWeek": 178,
-    "timeMonth": 180,
+    "time": 233,
+    "timeDay": 14,
+    "timeWeek": 150,
+    "timeMonth": 172,
     "timeYear": 235,
     "dailyMinutesDown": {
       "2022-09-09": 20,
@@ -159,11 +157,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.22%",
-    "time": 2532,
-    "timeDay": 2324,
-    "timeWeek": 2396,
-    "timeMonth": 2353,
-    "timeYear": 2532,
+    "time": 2531,
+    "timeDay": 2115,
+    "timeWeek": 2317,
+    "timeMonth": 2332,
+    "timeYear": 2531,
     "dailyMinutesDown": {
       "2022-08-14": 55,
       "2022-07-12": 80,
