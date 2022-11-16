@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
-    "time": 523,
-    "timeDay": 551,
-    "timeWeek": 636,
-    "timeMonth": 820,
-    "timeYear": 494,
+    "time": 522,
+    "timeDay": 233,
+    "timeWeek": 542,
+    "timeMonth": 804,
+    "timeYear": 493,
     "dailyMinutesDown": {
       "2022-10-30": 35,
       "2022-08-26": 20,
@@ -28,16 +28,16 @@
     "icon": "https://cdn.jsdelivr.net/gh/buligadragos/UpTime@master/assets/favicons/gotoparking.png",
     "slug": "goto-parking",
     "status": "up",
-    "uptime": "97.87%",
-    "uptimeDay": "54.40%",
+    "uptime": "97.88%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "41.76%",
     "uptimeMonth": "86.47%",
     "uptimeYear": "97.60%",
     "time": 1247,
-    "timeDay": 2266,
-    "timeWeek": 1871,
-    "timeMonth": 1239,
-    "timeYear": 1238,
+    "timeDay": 1499,
+    "timeWeek": 1949,
+    "timeMonth": 1252,
+    "timeYear": 1239,
     "dailyMinutesDown": {
       "2022-11-14": 780,
       "2022-11-13": 1440,
@@ -119,8 +119,7 @@
       "2021-12-01": 64,
       "2021-11-27": 24,
       "2021-11-24": 63,
-      "2021-11-23": 100,
-      "2021-11-16": 17
+      "2021-11-23": 100
     }
   },
   {
@@ -135,10 +134,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 226,
-    "timeDay": 147,
-    "timeWeek": 167,
-    "timeMonth": 146,
-    "timeYear": 223,
+    "timeDay": 220,
+    "timeWeek": 186,
+    "timeMonth": 144,
+    "timeYear": 224,
     "dailyMinutesDown": {
       "2022-09-09": 20,
       "2022-09-01": 27,
@@ -165,10 +164,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.51%",
-    "time": 2454,
-    "timeDay": 1242,
-    "timeWeek": 1139,
-    "timeMonth": 1708,
+    "time": 2451,
+    "timeDay": 1347,
+    "timeWeek": 1191,
+    "timeMonth": 1670,
     "timeYear": 2480,
     "dailyMinutesDown": {
       "2022-08-14": 55,
@@ -207,8 +206,7 @@
       "2021-12-26": 19,
       "2021-12-05": 38,
       "2021-11-19": 22,
-      "2021-11-17": 1196,
-      "2021-11-16": 207
+      "2021-11-17": 1196
     }
   }
 ]
