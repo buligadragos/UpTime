@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 475,
-    "timeDay": 362,
-    "timeWeek": 447,
+    "timeDay": 441,
+    "timeWeek": 466,
     "timeMonth": 464,
-    "timeYear": 506,
+    "timeYear": 507,
     "dailyMinutesDown": {
       "2022-10-30": 35,
       "2022-08-26": 20
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.54%",
     "time": 1197,
-    "timeDay": 849,
-    "timeWeek": 942,
-    "timeMonth": 1074,
+    "timeDay": 894,
+    "timeWeek": 927,
+    "timeMonth": 1072,
     "timeYear": 1188,
     "dailyMinutesDown": {
       "2023-01-03": 22,
@@ -106,9 +106,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 220,
-    "timeDay": 148,
-    "timeWeek": 214,
-    "timeMonth": 229,
+    "timeDay": 163,
+    "timeWeek": 224,
+    "timeMonth": 222,
     "timeYear": 189,
     "dailyMinutesDown": {
       "2023-03-16": 103,
@@ -131,16 +131,16 @@
     "icon": "https://cdn.jsdelivr.net/gh/buligadragos/UpTime@master/assets/favicons/heartmap.png",
     "slug": "heart-map",
     "status": "up",
-    "uptime": "95.04%",
+    "uptime": "95.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.33%",
     "time": 2394,
-    "timeDay": 2209,
-    "timeWeek": 2497,
-    "timeMonth": 2468,
-    "timeYear": 2353,
+    "timeDay": 2430,
+    "timeWeek": 2523,
+    "timeMonth": 2467,
+    "timeYear": 2351,
     "dailyMinutesDown": {
       "2023-02-25": 17,
       "2023-01-25": 55,
@@ -190,8 +190,7 @@
       "2022-04-27": 35,
       "2022-04-26": 27,
       "2022-04-25": 19,
-      "2022-04-20": 16,
-      "2022-04-18": 15
+      "2022-04-20": 16
     }
   }
 ]
