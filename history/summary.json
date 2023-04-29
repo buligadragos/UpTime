@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 473,
-    "timeDay": 306,
-    "timeWeek": 364,
+    "timeDay": 339,
+    "timeWeek": 369,
     "timeMonth": 452,
-    "timeYear": 509,
+    "timeYear": 510,
     "dailyMinutesDown": {
       "2022-10-30": 35,
       "2022-08-26": 20
@@ -26,16 +26,16 @@
     "icon": "https://cdn.jsdelivr.net/gh/buligadragos/UpTime@master/assets/favicons/gotoparking.png",
     "slug": "goto-parking",
     "status": "up",
-    "uptime": "98.47%",
+    "uptime": "98.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.55%",
-    "time": 1195,
-    "timeDay": 819,
-    "timeWeek": 899,
-    "timeMonth": 1023,
-    "timeYear": 1183,
+    "time": 1194,
+    "timeDay": 864,
+    "timeWeek": 897,
+    "timeMonth": 1024,
+    "timeYear": 1182,
     "dailyMinutesDown": {
       "2023-01-03": 22,
       "2022-12-12": 23,
@@ -105,10 +105,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 218,
-    "timeDay": 131,
-    "timeWeek": 117,
+    "timeDay": 91,
+    "timeWeek": 118,
     "timeMonth": 211,
-    "timeYear": 188,
+    "timeYear": 187,
     "dailyMinutesDown": {
       "2023-03-16": 103,
       "2023-03-15": 12,
@@ -136,10 +136,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.35%",
     "time": 2382,
-    "timeDay": 2620,
-    "timeWeek": 2395,
+    "timeDay": 2274,
+    "timeWeek": 2389,
     "timeMonth": 2470,
-    "timeYear": 2337,
+    "timeYear": 2336,
     "dailyMinutesDown": {
       "2023-02-25": 17,
       "2023-01-25": 55,
@@ -184,8 +184,7 @@
       "2022-05-05": 20,
       "2022-05-04": 19,
       "2022-05-02": 40,
-      "2022-05-01": 16,
-      "2022-04-29": 16
+      "2022-05-01": 16
     }
   }
 ]
