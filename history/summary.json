@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 463,
-    "timeDay": 293,
-    "timeWeek": 281,
-    "timeMonth": 449,
+    "timeDay": 340,
+    "timeWeek": 297,
+    "timeMonth": 453,
     "timeYear": 407,
     "dailyMinutesDown": {
       "2023-11-02": 31
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.86%",
     "time": 1107,
-    "timeDay": 842,
-    "timeWeek": 997,
-    "timeMonth": 1155,
+    "timeDay": 946,
+    "timeWeek": 995,
+    "timeMonth": 1157,
     "timeYear": 1101,
     "dailyMinutesDown": {
       "2023-12-17": 15,
@@ -70,18 +70,19 @@
     "icon": "https://cdn.jsdelivr.net/gh/buligadragos/UpTime@master/assets/favicons/oce.png",
     "slug": "our-collective-experience",
     "status": "down",
-    "uptime": "97.80%",
+    "uptime": "97.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "41.69%",
-    "uptimeYear": "95.10%",
+    "uptimeMonth": "38.41%",
+    "uptimeYear": "94.83%",
     "time": 227,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 227,
-    "timeYear": 243,
+    "timeMonth": 228,
+    "timeYear": 244,
     "dailyMinutesDown": {
-      "2023-12-22": 79,
+      "2023-12-23": 76,
+      "2023-12-22": 1440,
       "2023-12-21": 1440,
       "2023-12-20": 1440,
       "2023-12-19": 1440,
@@ -118,11 +119,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.31%",
+    "uptimeYear": "96.59%",
     "time": 2432,
-    "timeDay": 2275,
-    "timeWeek": 2463,
-    "timeMonth": 3225,
+    "timeDay": 2596,
+    "timeWeek": 2492,
+    "timeMonth": 3233,
     "timeYear": 2636,
     "dailyMinutesDown": {
       "2023-09-18": 20,
@@ -140,8 +141,7 @@
       "2022-12-27": 1440,
       "2022-12-26": 1440,
       "2022-12-25": 1440,
-      "2022-12-24": 1440,
-      "2022-12-23": 1440
+      "2022-12-24": 1440
     }
   }
 ]
