@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 455,
-    "timeDay": 257,
-    "timeWeek": 345,
+    "time": 454,
+    "timeDay": 293,
+    "timeWeek": 336,
     "timeMonth": 321,
-    "timeYear": 405,
+    "timeYear": 404,
     "dailyMinutesDown": {
       "2023-11-02": 31
     }
@@ -26,17 +26,16 @@
     "slug": "goto-parking",
     "status": "up",
     "uptime": "99.27%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.85%",
-    "time": 1104,
-    "timeDay": 969,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.86%",
+    "time": 1103,
+    "timeDay": 979,
     "timeWeek": 1018,
-    "timeMonth": 994,
+    "timeMonth": 993,
     "timeYear": 1095,
     "dailyMinutesDown": {
-      "2024-01-02": 10,
       "2023-12-27": 18,
       "2023-12-17": 15,
       "2023-12-13": 16,
@@ -62,8 +61,7 @@
       "2023-07-02": 25,
       "2023-06-01": 18,
       "2023-05-19": 19,
-      "2023-05-05": 23,
-      "2023-01-03": 22
+      "2023-05-05": 23
     }
   },
   {
@@ -72,18 +70,19 @@
     "icon": "https://cdn.jsdelivr.net/gh/buligadragos/UpTime@master/assets/favicons/oce.png",
     "slug": "our-collective-experience",
     "status": "down",
-    "uptime": "96.46%",
+    "uptime": "96.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "4.11%",
-    "uptimeYear": "91.98%",
+    "uptimeMonth": "2.24%",
+    "uptimeYear": "91.82%",
     "time": 228,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 309,
+    "timeMonth": 440,
     "timeYear": 245,
     "dailyMinutesDown": {
-      "2024-01-02": 701,
+      "2024-01-03": 80,
+      "2024-01-02": 1440,
       "2024-01-01": 1440,
       "2023-12-31": 1440,
       "2023-12-30": 1440,
@@ -130,19 +129,18 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.44%",
+    "uptimeYear": "99.60%",
     "time": 2436,
-    "timeDay": 2482,
-    "timeWeek": 2680,
-    "timeMonth": 2673,
-    "timeYear": 2635,
+    "timeDay": 2497,
+    "timeWeek": 2638,
+    "timeMonth": 2670,
+    "timeYear": 2634,
     "dailyMinutesDown": {
       "2023-09-18": 20,
       "2023-07-26": 20,
       "2023-02-25": 17,
       "2023-01-25": 55,
-      "2023-01-04": 628,
-      "2023-01-03": 1440
+      "2023-01-04": 628
     }
   }
 ]
