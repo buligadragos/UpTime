@@ -24,9 +24,9 @@
     "url": "https://gotoparking.ro",
     "icon": "https://cdn.jsdelivr.net/gh/buligadragos/UpTime@master/assets/favicons/gotoparking.png",
     "slug": "goto-parking",
-    "status": "up",
-    "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.83%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "96.34%",
     "uptimeMonth": "98.19%",
     "uptimeYear": "99.51%",
@@ -36,6 +36,7 @@
     "timeMonth": 2369,
     "timeYear": 1805,
     "dailyMinutesDown": {
+      "2024-07-02": 1,
       "2024-06-29": 121,
       "2024-06-28": 2,
       "2024-06-26": 245,
@@ -112,8 +113,7 @@
       "2023-12-11": 25,
       "2023-11-12": 20,
       "2023-11-08": 23,
-      "2023-10-30": 16,
-      "2023-10-28": 17
+      "2023-10-30": 16
     }
   },
   {
@@ -249,14 +249,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "68.28%",
+    "uptimeYear": "68.26%",
     "time": 2433,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2386,
     "dailyMinutesDown": {
-      "2024-07-02": 86,
+      "2024-07-02": 160,
       "2024-07-01": 1440,
       "2024-06-30": 1440,
       "2024-06-29": 1440,
