@@ -26,8 +26,8 @@
     "slug": "goto-parking",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "97.39%",
-    "uptimeWeek": "98.61%",
+    "uptimeDay": "97.57%",
+    "uptimeWeek": "98.64%",
     "uptimeMonth": "98.24%",
     "uptimeYear": "99.51%",
     "time": 1733,
@@ -36,7 +36,7 @@
     "timeMonth": 2241,
     "timeYear": 1809,
     "dailyMinutesDown": {
-      "2024-07-07": 38,
+      "2024-07-07": 35,
       "2024-07-06": 38,
       "2024-07-04": 41,
       "2024-07-03": 24,
@@ -110,7 +110,8 @@
       "2024-01-13": 22,
       "2024-01-11": 35,
       "2024-01-09": 31,
-      "2023-12-27": 18
+      "2023-12-27": 18,
+      "2023-12-17": 15
     }
   },
   {
@@ -242,18 +243,19 @@
     "icon": "https://cdn.jsdelivr.net/gh/buligadragos/UpTime@master/assets/favicons/heartmap.png",
     "slug": "heart-map",
     "status": "down",
-    "uptime": "84.79%",
+    "uptime": "84.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "66.66%",
+    "uptimeYear": "66.63%",
     "time": 2432,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2382,
     "dailyMinutesDown": {
-      "2024-07-07": 1400,
+      "2024-07-08": 95,
+      "2024-07-07": 1440,
       "2024-07-06": 1440,
       "2024-07-05": 1440,
       "2024-07-04": 1440,
