@@ -26,9 +26,9 @@
     "slug": "goto-parking",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "96.31%",
-    "uptimeWeek": "97.76%",
-    "uptimeMonth": "98.52%",
+    "uptimeDay": "97.01%",
+    "uptimeWeek": "97.86%",
+    "uptimeMonth": "98.55%",
     "uptimeYear": "99.48%",
     "time": 1794,
     "timeDay": 1504,
@@ -36,7 +36,7 @@
     "timeMonth": 1780,
     "timeYear": 1929,
     "dailyMinutesDown": {
-      "2024-09-02": 53,
+      "2024-09-02": 43,
       "2024-09-01": 20,
       "2024-08-31": 80,
       "2024-08-29": 18,
@@ -102,7 +102,8 @@
       "2024-05-05": 128,
       "2024-04-29": 20,
       "2024-04-27": 72,
-      "2024-04-26": 5
+      "2024-04-26": 5,
+      "2024-04-25": 20
     }
   },
   {
@@ -115,13 +116,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "56.73%",
+    "uptimeYear": "56.71%",
     "time": 386,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 472,
     "dailyMinutesDown": {
+      "2024-09-03": 100,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
@@ -294,13 +296,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "51.04%",
+    "uptimeYear": "51.02%",
     "time": 2424,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2349,
     "dailyMinutesDown": {
+      "2024-09-03": 100,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
