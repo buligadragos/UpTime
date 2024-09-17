@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 399,
-    "timeDay": 414,
-    "timeWeek": 419,
-    "timeMonth": 419,
-    "timeYear": 402,
+    "timeDay": 388,
+    "timeWeek": 401,
+    "timeMonth": 416,
+    "timeYear": 401,
     "dailyMinutesDown": {
       "2023-11-02": 31
     }
@@ -24,18 +24,19 @@
     "url": "https://gotoparking.ro",
     "icon": "https://cdn.jsdelivr.net/gh/buligadragos/UpTime@master/assets/favicons/gotoparking.png",
     "slug": "goto-parking",
-    "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "94.81%",
-    "uptimeWeek": "97.27%",
+    "status": "down",
+    "uptime": "99.84%",
+    "uptimeDay": "94.77%",
+    "uptimeWeek": "97.26%",
     "uptimeMonth": "98.03%",
-    "uptimeYear": "99.50%",
-    "time": 1861,
-    "timeDay": 2337,
-    "timeWeek": 2297,
-    "timeMonth": 1896,
-    "timeYear": 1955,
+    "uptimeYear": "99.51%",
+    "time": 1863,
+    "timeDay": 2235,
+    "timeWeek": 2318,
+    "timeMonth": 1894,
+    "timeYear": 1956,
     "dailyMinutesDown": {
+      "2024-09-17": 1,
       "2024-09-16": 76,
       "2024-09-15": 83,
       "2024-09-14": 17,
@@ -97,7 +98,7 @@
       "2024-06-04": 77,
       "2024-06-03": 17,
       "2024-06-01": 19,
-      "2024-05-31": 38
+      "2024-05-31": 20
     }
   },
   {
@@ -110,14 +111,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "52.92%",
-    "time": 393,
+    "uptimeYear": "52.89%",
+    "time": 394,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 487,
+    "timeYear": 488,
     "dailyMinutesDown": {
-      "2024-09-16": 1340,
+      "2024-09-17": 36,
+      "2024-09-16": 1440,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
       "2024-09-13": 1440,
@@ -299,18 +301,19 @@
     "icon": "https://cdn.jsdelivr.net/gh/buligadragos/UpTime@master/assets/favicons/heartmap.png",
     "slug": "heart-map",
     "status": "down",
-    "uptime": "79.01%",
+    "uptime": "79.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "47.22%",
-    "time": 2414,
+    "uptimeYear": "47.20%",
+    "time": 2413,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2337,
+    "timeYear": 2336,
     "dailyMinutesDown": {
-      "2024-09-16": 1340,
+      "2024-09-17": 36,
+      "2024-09-16": 1440,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
       "2024-09-13": 1440,
@@ -505,8 +508,7 @@
       "2024-03-08": 943,
       "2024-03-06": 23,
       "2024-03-03": 15,
-      "2024-02-02": 23,
-      "2023-09-18": 20
+      "2024-02-02": 23
     }
   }
 ]
