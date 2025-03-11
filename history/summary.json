@@ -4,10 +4,10 @@
     "url": "https://www.buligadragos.ro",
     "icon": "https://cdn.jsdelivr.net/gh/buligadragos/UpTime@master/assets/favicons/portfolio.png",
     "slug": "portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 413,
@@ -15,7 +15,9 @@
     "timeWeek": 475,
     "timeMonth": 492,
     "timeYear": 412,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-11": 1
+    }
   },
   {
     "name": "GOTO Parking",
@@ -102,7 +104,7 @@
     "icon": "https://cdn.jsdelivr.net/gh/buligadragos/UpTime@master/assets/favicons/oce.png",
     "slug": "our-collective-experience",
     "status": "down",
-    "uptime": "72.58%",
+    "uptime": "72.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -113,7 +115,7 @@
     "timeMonth": 0,
     "timeYear": 575,
     "dailyMinutesDown": {
-      "2025-03-11": 113,
+      "2025-03-11": 325,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
@@ -372,7 +374,7 @@
     "icon": "https://cdn.jsdelivr.net/gh/buligadragos/UpTime@master/assets/favicons/heartmap.png",
     "slug": "heart-map",
     "status": "down",
-    "uptime": "67.64%",
+    "uptime": "67.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -383,7 +385,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-11": 113,
+      "2025-03-11": 325,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
