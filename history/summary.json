@@ -4,19 +4,19 @@
     "url": "https://www.buligadragos.ro",
     "icon": "https://cdn.jsdelivr.net/gh/buligadragos/UpTime@master/assets/favicons/portfolio.png",
     "slug": "portfolio",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 413,
-    "timeDay": 423,
-    "timeWeek": 475,
-    "timeMonth": 492,
+    "timeDay": 415,
+    "timeWeek": 466,
+    "timeMonth": 489,
     "timeYear": 412,
     "dailyMinutesDown": {
-      "2025-03-11": 1
+      "2025-03-11": 14
     }
   },
   {
@@ -115,7 +115,7 @@
     "timeMonth": 0,
     "timeYear": 575,
     "dailyMinutesDown": {
-      "2025-03-11": 325,
+      "2025-03-11": 339,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
@@ -385,7 +385,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-11": 325,
+      "2025-03-11": 339,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
