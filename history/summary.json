@@ -6,18 +6,16 @@
     "slug": "portfolio",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 413,
-    "timeDay": 415,
-    "timeWeek": 466,
-    "timeMonth": 489,
+    "timeDay": 368,
+    "timeWeek": 457,
+    "timeMonth": 416,
     "timeYear": 412,
-    "dailyMinutesDown": {
-      "2025-03-11": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "GOTO Parking",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.53%",
-    "time": 2137,
-    "timeDay": 2324,
-    "timeWeek": 2496,
-    "timeMonth": 2409,
-    "timeYear": 2114,
+    "time": 2138,
+    "timeDay": 2417,
+    "timeWeek": 2463,
+    "timeMonth": 2386,
+    "timeYear": 2115,
     "dailyMinutesDown": {
       "2024-11-06": 25,
       "2024-09-27": 56,
@@ -104,18 +102,19 @@
     "icon": "https://cdn.jsdelivr.net/gh/buligadragos/UpTime@master/assets/favicons/oce.png",
     "slug": "our-collective-experience",
     "status": "down",
-    "uptime": "72.57%",
+    "uptime": "72.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "31.70%",
-    "time": 545,
+    "time": 547,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 575,
     "dailyMinutesDown": {
-      "2025-03-11": 339,
+      "2025-03-12": 112,
+      "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
@@ -364,8 +363,7 @@
       "2024-04-17": 38,
       "2024-03-15": 859,
       "2024-03-14": 1440,
-      "2024-03-13": 1440,
-      "2024-03-12": 1440
+      "2024-03-13": 1440
     }
   },
   {
@@ -374,18 +372,19 @@
     "icon": "https://cdn.jsdelivr.net/gh/buligadragos/UpTime@master/assets/favicons/heartmap.png",
     "slug": "heart-map",
     "status": "down",
-    "uptime": "67.63%",
+    "uptime": "67.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 2195,
+    "time": 2189,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-11": 339,
+      "2025-03-12": 112,
+      "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
@@ -748,8 +747,7 @@
       "2024-03-16": 1440,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
-      "2024-03-13": 1440,
-      "2024-03-12": 1440
+      "2024-03-13": 1440
     }
   }
 ]
