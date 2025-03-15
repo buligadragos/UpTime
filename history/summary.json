@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 413,
-    "timeDay": 428,
-    "timeWeek": 409,
-    "timeMonth": 422,
+    "timeDay": 505,
+    "timeWeek": 419,
+    "timeMonth": 424,
     "timeYear": 412,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.53%",
     "time": 2139,
-    "timeDay": 2998,
-    "timeWeek": 2533,
-    "timeMonth": 2446,
+    "timeDay": 2558,
+    "timeWeek": 2550,
+    "timeMonth": 2451,
     "timeYear": 2114,
     "dailyMinutesDown": {
       "2024-11-06": 25,
@@ -102,18 +102,19 @@
     "icon": "https://cdn.jsdelivr.net/gh/buligadragos/UpTime@master/assets/favicons/oce.png",
     "slug": "our-collective-experience",
     "status": "down",
-    "uptime": "72.41%",
+    "uptime": "72.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "31.70%",
-    "time": 552,
+    "time": 555,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 575,
     "dailyMinutesDown": {
-      "2025-03-14": 111,
+      "2025-03-15": 110,
+      "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
       "2025-03-11": 1440,
@@ -362,8 +363,7 @@
       "2024-07-11": 1440,
       "2024-07-10": 1440,
       "2024-07-09": 960,
-      "2024-04-17": 38,
-      "2024-03-15": 859
+      "2024-04-17": 38
     }
   },
   {
@@ -372,18 +372,19 @@
     "icon": "https://cdn.jsdelivr.net/gh/buligadragos/UpTime@master/assets/favicons/heartmap.png",
     "slug": "heart-map",
     "status": "down",
-    "uptime": "67.47%",
+    "uptime": "67.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 2179,
+    "time": 2176,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-14": 111,
+      "2025-03-15": 110,
+      "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
       "2025-03-11": 1440,
@@ -746,8 +747,7 @@
       "2024-03-19": 1440,
       "2024-03-18": 1440,
       "2024-03-17": 1440,
-      "2024-03-16": 1440,
-      "2024-03-15": 1440
+      "2024-03-16": 1440
     }
   }
 ]
