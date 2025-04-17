@@ -11,10 +11,10 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 411,
-    "timeDay": 487,
-    "timeWeek": 419,
-    "timeMonth": 436,
-    "timeYear": 416,
+    "timeDay": 307,
+    "timeWeek": 399,
+    "timeMonth": 433,
+    "timeYear": 415,
     "dailyMinutesDown": {
       "2025-04-03": 36
     }
@@ -30,10 +30,10 @@
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.54%",
-    "time": 2133,
-    "timeDay": 2945,
-    "timeWeek": 2607,
-    "timeMonth": 2673,
+    "time": 2134,
+    "timeDay": 2549,
+    "timeWeek": 2631,
+    "timeMonth": 2658,
     "timeYear": 2096,
     "dailyMinutesDown": {
       "2025-04-11": 23,
@@ -104,18 +104,19 @@
     "icon": "https://cdn.jsdelivr.net/gh/buligadragos/UpTime@master/assets/favicons/oce.png",
     "slug": "our-collective-experience",
     "status": "down",
-    "uptime": "70.57%",
+    "uptime": "70.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "23.08%",
+    "uptimeYear": "22.80%",
     "time": 572,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 512,
+    "timeYear": 433,
     "dailyMinutesDown": {
-      "2025-04-16": 119,
+      "2025-04-17": 118,
+      "2025-04-16": 1440,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
@@ -396,8 +397,7 @@
       "2024-07-12": 1440,
       "2024-07-11": 1440,
       "2024-07-10": 1440,
-      "2024-07-09": 960,
-      "2024-04-17": 38
+      "2024-07-09": 960
     }
   },
   {
@@ -406,18 +406,19 @@
     "icon": "https://cdn.jsdelivr.net/gh/buligadragos/UpTime@master/assets/favicons/heartmap.png",
     "slug": "heart-map",
     "status": "down",
-    "uptime": "65.69%",
+    "uptime": "65.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1807,
+    "time": 1800,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-16": 119,
+      "2025-04-17": 118,
+      "2025-04-16": 1440,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
@@ -780,8 +781,7 @@
       "2024-04-21": 1440,
       "2024-04-20": 1440,
       "2024-04-19": 1440,
-      "2024-04-18": 1440,
-      "2024-04-17": 1440
+      "2024-04-18": 1440
     }
   }
 ]
