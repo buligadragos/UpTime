@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 419,
-    "timeDay": 562,
-    "timeWeek": 448,
-    "timeMonth": 422,
+    "timeDay": 335,
+    "timeWeek": 447,
+    "timeMonth": 416,
     "timeYear": 431,
     "dailyMinutesDown": {
       "2025-04-03": 36
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.61%",
-    "time": 2088,
-    "timeDay": 1535,
-    "timeWeek": 2530,
-    "timeMonth": 2312,
-    "timeYear": 2071,
+    "time": 2087,
+    "timeDay": 2014,
+    "timeWeek": 2522,
+    "timeMonth": 2289,
+    "timeYear": 2068,
     "dailyMinutesDown": {
       "2025-07-03": 31,
       "2025-06-20": 15,
@@ -83,8 +83,7 @@
       "2024-08-01": 55,
       "2024-07-31": 32,
       "2024-07-29": 69,
-      "2024-07-26": 55,
-      "2024-07-25": 31
+      "2024-07-26": 55
     }
   },
   {
@@ -93,18 +92,19 @@
     "icon": "https://cdn.jsdelivr.net/gh/buligadragos/UpTime@master/assets/favicons/oce.png",
     "slug": "our-collective-experience",
     "status": "down",
-    "uptime": "65.59%",
+    "uptime": "65.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 646,
+    "time": 647,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-24": 142,
+      "2025-07-25": 142,
+      "2025-07-24": 1440,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
       "2025-07-21": 1440,
@@ -467,8 +467,7 @@
       "2024-07-29": 1440,
       "2024-07-28": 1440,
       "2024-07-27": 1440,
-      "2024-07-26": 1440,
-      "2024-07-25": 1440
+      "2024-07-26": 1440
     }
   },
   {
@@ -477,7 +476,7 @@
     "icon": "https://cdn.jsdelivr.net/gh/buligadragos/UpTime@master/assets/favicons/heartmap.png",
     "slug": "heart-map",
     "status": "down",
-    "uptime": "60.88%",
+    "uptime": "60.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -488,7 +487,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-24": 142,
+      "2025-07-25": 142,
+      "2025-07-24": 1440,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
       "2025-07-21": 1440,
@@ -851,8 +851,7 @@
       "2024-07-29": 1440,
       "2024-07-28": 1440,
       "2024-07-27": 1440,
-      "2024-07-26": 1440,
-      "2024-07-25": 1440
+      "2024-07-26": 1440
     }
   }
 ]
