@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 421,
-    "timeDay": 384,
-    "timeWeek": 549,
+    "timeDay": 382,
+    "timeWeek": 437,
     "timeMonth": 443,
-    "timeYear": 435,
+    "timeYear": 434,
     "dailyMinutesDown": {
       "2025-04-03": 36
     }
@@ -27,14 +27,14 @@
     "status": "up",
     "uptime": "99.88%",
     "uptimeDay": "96.74%",
-    "uptimeWeek": "99.29%",
+    "uptimeWeek": "99.53%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.66%",
     "time": 2088,
-    "timeDay": 2121,
-    "timeWeek": 1851,
-    "timeMonth": 2204,
-    "timeYear": 2056,
+    "timeDay": 2094,
+    "timeWeek": 1935,
+    "timeMonth": 2192,
+    "timeYear": 2055,
     "dailyMinutesDown": {
       "2025-08-03": 47,
       "2025-07-27": 24,
@@ -88,18 +88,19 @@
     "icon": "https://cdn.jsdelivr.net/gh/buligadragos/UpTime@master/assets/favicons/oce.png",
     "slug": "our-collective-experience",
     "status": "down",
-    "uptime": "65.10%",
+    "uptime": "65.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 669,
+    "time": 675,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-03": 786,
+      "2025-08-04": 154,
+      "2025-08-03": 1440,
       "2025-08-02": 1440,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
@@ -462,8 +463,7 @@
       "2024-08-08": 1440,
       "2024-08-07": 1440,
       "2024-08-06": 1440,
-      "2024-08-05": 1440,
-      "2024-08-04": 1440
+      "2024-08-05": 1440
     }
   },
   {
@@ -472,7 +472,7 @@
     "icon": "https://cdn.jsdelivr.net/gh/buligadragos/UpTime@master/assets/favicons/heartmap.png",
     "slug": "heart-map",
     "status": "down",
-    "uptime": "60.41%",
+    "uptime": "60.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -483,7 +483,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-03": 786,
+      "2025-08-04": 154,
+      "2025-08-03": 1440,
       "2025-08-02": 1440,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
@@ -846,8 +847,7 @@
       "2024-08-08": 1440,
       "2024-08-07": 1440,
       "2024-08-06": 1440,
-      "2024-08-05": 1440,
-      "2024-08-04": 1440
+      "2024-08-05": 1440
     }
   }
 ]
