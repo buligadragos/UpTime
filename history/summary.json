@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 422,
-    "timeDay": 360,
-    "timeWeek": 466,
-    "timeMonth": 459,
+    "time": 423,
+    "timeDay": 470,
+    "timeWeek": 457,
+    "timeMonth": 461,
     "timeYear": 435,
     "dailyMinutesDown": {
       "2025-04-03": 36
@@ -30,10 +30,10 @@
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.69%",
-    "time": 2062,
-    "timeDay": 1966,
-    "timeWeek": 2043,
-    "timeMonth": 2066,
+    "time": 2063,
+    "timeDay": 2701,
+    "timeWeek": 2544,
+    "timeMonth": 2078,
     "timeYear": 2090,
     "dailyMinutesDown": {
       "2025-08-12": 21,
@@ -84,7 +84,7 @@
     "icon": "https://cdn.jsdelivr.net/gh/buligadragos/UpTime@master/assets/favicons/oce.png",
     "slug": "our-collective-experience",
     "status": "down",
-    "uptime": "64.53%",
+    "uptime": "64.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -95,7 +95,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-16": 124,
+      "2025-08-17": 142,
+      "2025-08-16": 1440,
       "2025-08-15": 1440,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
@@ -458,8 +459,7 @@
       "2024-08-21": 1440,
       "2024-08-20": 1440,
       "2024-08-19": 1440,
-      "2024-08-18": 1440,
-      "2024-08-17": 1440
+      "2024-08-18": 1440
     }
   },
   {
@@ -468,7 +468,7 @@
     "icon": "https://cdn.jsdelivr.net/gh/buligadragos/UpTime@master/assets/favicons/heartmap.png",
     "slug": "heart-map",
     "status": "down",
-    "uptime": "59.86%",
+    "uptime": "59.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -479,7 +479,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-16": 124,
+      "2025-08-17": 142,
+      "2025-08-16": 1440,
       "2025-08-15": 1440,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
@@ -842,8 +843,7 @@
       "2024-08-21": 1440,
       "2024-08-20": 1440,
       "2024-08-19": 1440,
-      "2024-08-18": 1440,
-      "2024-08-17": 1440
+      "2024-08-18": 1440
     }
   }
 ]
