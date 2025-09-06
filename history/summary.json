@@ -6,17 +6,16 @@
     "slug": "portfolio",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "98.93%",
-    "uptimeMonth": "99.63%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.03%",
+    "uptimeMonth": "99.65%",
     "uptimeYear": "99.96%",
     "time": 421,
-    "timeDay": 443,
-    "timeWeek": 402,
-    "timeMonth": 424,
+    "timeDay": 437,
+    "timeWeek": 407,
+    "timeMonth": 429,
     "timeYear": 435,
     "dailyMinutesDown": {
-      "2025-09-05": 10,
       "2025-09-03": 15,
       "2025-09-02": 49,
       "2025-08-30": 33,
@@ -35,12 +34,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "99.77%",
-    "time": 2073,
-    "timeDay": 2503,
-    "timeWeek": 2454,
-    "timeMonth": 2159,
-    "timeYear": 2147,
+    "uptimeYear": "99.78%",
+    "time": 2072,
+    "timeDay": 1319,
+    "timeWeek": 2271,
+    "timeMonth": 2144,
+    "timeYear": 2148,
     "dailyMinutesDown": {
       "2025-08-12": 21,
       "2025-08-08": 29,
@@ -68,8 +67,7 @@
       "2024-09-11": 20,
       "2024-09-10": 25,
       "2024-09-08": 15,
-      "2024-09-07": 59,
-      "2024-09-06": 45
+      "2024-09-07": 59
     }
   },
   {
@@ -78,18 +76,19 @@
     "icon": "https://cdn.jsdelivr.net/gh/buligadragos/UpTime@master/assets/favicons/oce.png",
     "slug": "our-collective-experience",
     "status": "down",
-    "uptime": "63.62%",
+    "uptime": "63.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 325,
+    "time": 327,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-05": 597,
+      "2025-09-06": 111,
+      "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
       "2025-09-02": 1440,
@@ -452,8 +451,7 @@
       "2024-09-10": 1440,
       "2024-09-09": 1440,
       "2024-09-08": 1440,
-      "2024-09-07": 1440,
-      "2024-09-06": 1440
+      "2024-09-07": 1440
     }
   },
   {
@@ -462,7 +460,7 @@
     "icon": "https://cdn.jsdelivr.net/gh/buligadragos/UpTime@master/assets/favicons/heartmap.png",
     "slug": "heart-map",
     "status": "down",
-    "uptime": "58.99%",
+    "uptime": "58.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -473,7 +471,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-05": 597,
+      "2025-09-06": 111,
+      "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
       "2025-09-02": 1440,
@@ -836,8 +835,7 @@
       "2024-09-10": 1440,
       "2024-09-09": 1440,
       "2024-09-08": 1440,
-      "2024-09-07": 1440,
-      "2024-09-06": 1440
+      "2024-09-07": 1440
     }
   }
 ]
