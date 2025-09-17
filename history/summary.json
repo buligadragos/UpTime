@@ -11,9 +11,9 @@
     "uptimeMonth": "99.65%",
     "uptimeYear": "99.96%",
     "time": 422,
-    "timeDay": 281,
-    "timeWeek": 484,
-    "timeMonth": 438,
+    "timeDay": 343,
+    "timeWeek": 475,
+    "timeMonth": 436,
     "timeYear": 437,
     "dailyMinutesDown": {
       "2025-09-03": 15,
@@ -34,12 +34,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.84%",
-    "time": 2109,
-    "timeDay": 2174,
-    "timeWeek": 1972,
-    "timeMonth": 2164,
-    "timeYear": 2150,
+    "uptimeYear": "99.86%",
+    "time": 2110,
+    "timeDay": 2292,
+    "timeWeek": 2024,
+    "timeMonth": 2154,
+    "timeYear": 2147,
     "dailyMinutesDown": {
       "2025-08-12": 21,
       "2025-08-08": 29,
@@ -57,8 +57,7 @@
       "2024-09-21": 42,
       "2024-09-20": 106,
       "2024-09-19": 22,
-      "2024-09-18": 18,
-      "2024-09-17": 100
+      "2024-09-18": 18
     }
   },
   {
@@ -67,18 +66,19 @@
     "icon": "https://cdn.jsdelivr.net/gh/buligadragos/UpTime@master/assets/favicons/oce.png",
     "slug": "our-collective-experience",
     "status": "down",
-    "uptime": "63.16%",
+    "uptime": "63.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 250,
+    "time": 251,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-16": 112,
+      "2025-09-17": 112,
+      "2025-09-16": 1440,
       "2025-09-15": 1440,
       "2025-09-14": 1440,
       "2025-09-13": 1440,
@@ -441,8 +441,7 @@
       "2024-09-21": 1440,
       "2024-09-20": 1440,
       "2024-09-19": 1440,
-      "2024-09-18": 1440,
-      "2024-09-17": 1440
+      "2024-09-18": 1440
     }
   },
   {
@@ -451,7 +450,7 @@
     "icon": "https://cdn.jsdelivr.net/gh/buligadragos/UpTime@master/assets/favicons/heartmap.png",
     "slug": "heart-map",
     "status": "down",
-    "uptime": "58.54%",
+    "uptime": "58.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -462,7 +461,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-16": 112,
+      "2025-09-17": 112,
+      "2025-09-16": 1440,
       "2025-09-15": 1440,
       "2025-09-14": 1440,
       "2025-09-13": 1440,
@@ -825,8 +825,7 @@
       "2024-09-21": 1440,
       "2024-09-20": 1440,
       "2024-09-19": 1440,
-      "2024-09-18": 1440,
-      "2024-09-17": 1440
+      "2024-09-18": 1440
     }
   }
 ]
