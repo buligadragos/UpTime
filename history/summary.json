@@ -7,13 +7,13 @@
     "status": "up",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.24%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.45%",
     "uptimeYear": "99.92%",
-    "time": 442,
-    "timeDay": 326,
-    "timeWeek": 457,
-    "timeMonth": 667,
+    "time": 441,
+    "timeDay": 293,
+    "timeWeek": 414,
+    "timeMonth": 668,
     "timeYear": 459,
     "dailyMinutesDown": {
       "2025-10-23": 70,
@@ -40,11 +40,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.95%",
-    "time": 2183,
-    "timeDay": 3095,
-    "timeWeek": 2521,
-    "timeMonth": 2305,
-    "timeYear": 2277,
+    "time": 2184,
+    "timeDay": 2672,
+    "timeWeek": 2520,
+    "timeMonth": 2314,
+    "timeYear": 2281,
     "dailyMinutesDown": {
       "2025-10-21": 18,
       "2025-09-17": 17,
@@ -64,18 +64,19 @@
     "icon": "https://cdn.jsdelivr.net/gh/buligadragos/UpTime@master/assets/favicons/oce.png",
     "slug": "our-collective-experience",
     "status": "down",
-    "uptime": "61.34%",
+    "uptime": "61.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 378,
+    "time": 390,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-29": 125,
+      "2025-10-30": 124,
+      "2025-10-29": 1440,
       "2025-10-28": 1440,
       "2025-10-27": 1440,
       "2025-10-26": 1440,
@@ -438,8 +439,7 @@
       "2024-11-03": 1440,
       "2024-11-02": 1440,
       "2024-11-01": 1440,
-      "2024-10-31": 1440,
-      "2024-10-30": 1440
+      "2024-10-31": 1440
     }
   },
   {
@@ -448,7 +448,7 @@
     "icon": "https://cdn.jsdelivr.net/gh/buligadragos/UpTime@master/assets/favicons/heartmap.png",
     "slug": "heart-map",
     "status": "down",
-    "uptime": "56.80%",
+    "uptime": "56.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -459,7 +459,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-29": 125,
+      "2025-10-30": 124,
+      "2025-10-29": 1440,
       "2025-10-28": 1440,
       "2025-10-27": 1440,
       "2025-10-26": 1440,
@@ -822,8 +823,7 @@
       "2024-11-03": 1440,
       "2024-11-02": 1440,
       "2024-11-01": 1440,
-      "2024-10-31": 1440,
-      "2024-10-30": 1440
+      "2024-10-31": 1440
     }
   }
 ]
