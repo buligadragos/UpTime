@@ -11,10 +11,10 @@
     "uptimeMonth": "99.40%",
     "uptimeYear": "99.91%",
     "time": 440,
-    "timeDay": 260,
-    "timeWeek": 421,
-    "timeMonth": 524,
-    "timeYear": 459,
+    "timeDay": 431,
+    "timeWeek": 438,
+    "timeMonth": 526,
+    "timeYear": 458,
     "dailyMinutesDown": {
       "2025-10-31": 22,
       "2025-10-23": 70,
@@ -40,12 +40,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.95%",
-    "time": 2194,
-    "timeDay": 1952,
-    "timeWeek": 2736,
-    "timeMonth": 2522,
-    "timeYear": 2304,
+    "uptimeYear": "99.96%",
+    "time": 2197,
+    "timeDay": 2865,
+    "timeWeek": 2744,
+    "timeMonth": 2534,
+    "timeYear": 2270,
     "dailyMinutesDown": {
       "2025-10-21": 18,
       "2025-09-17": 17,
@@ -64,18 +64,19 @@
     "icon": "https://cdn.jsdelivr.net/gh/buligadragos/UpTime@master/assets/favicons/oce.png",
     "slug": "our-collective-experience",
     "status": "down",
-    "uptime": "61.02%",
+    "uptime": "60.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 501,
+    "time": 173,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-06": 123,
+      "2025-11-07": 122,
+      "2025-11-06": 1440,
       "2025-11-05": 1440,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
@@ -438,8 +439,7 @@
       "2024-11-11": 1440,
       "2024-11-10": 1440,
       "2024-11-09": 1440,
-      "2024-11-08": 1440,
-      "2024-11-07": 1440
+      "2024-11-08": 1440
     }
   },
   {
@@ -448,7 +448,7 @@
     "icon": "https://cdn.jsdelivr.net/gh/buligadragos/UpTime@master/assets/favicons/heartmap.png",
     "slug": "heart-map",
     "status": "down",
-    "uptime": "56.49%",
+    "uptime": "56.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -459,7 +459,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-06": 123,
+      "2025-11-07": 122,
+      "2025-11-06": 1440,
       "2025-11-05": 1440,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
@@ -822,8 +823,7 @@
       "2024-11-11": 1440,
       "2024-11-10": 1440,
       "2024-11-09": 1440,
-      "2024-11-08": 1440,
-      "2024-11-07": 1440
+      "2024-11-08": 1440
     }
   }
 ]
