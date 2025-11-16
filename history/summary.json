@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.91%",
-    "time": 440,
-    "timeDay": 467,
-    "timeWeek": 408,
-    "timeMonth": 513,
-    "timeYear": 458,
+    "time": 441,
+    "timeDay": 496,
+    "timeWeek": 420,
+    "timeMonth": 508,
+    "timeYear": 459,
     "dailyMinutesDown": {
       "2025-10-31": 22,
       "2025-10-23": 70,
@@ -38,14 +38,14 @@
     "status": "up",
     "uptime": "99.89%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.94%",
+    "uptimeWeek": "99.09%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.94%",
-    "time": 2192,
-    "timeDay": 1678,
-    "timeWeek": 2032,
-    "timeMonth": 2364,
-    "timeYear": 2274,
+    "time": 2191,
+    "timeDay": 1716,
+    "timeWeek": 2050,
+    "timeMonth": 2346,
+    "timeYear": 2265,
     "dailyMinutesDown": {
       "2025-11-12": 26,
       "2025-11-10": 66,
@@ -67,18 +67,19 @@
     "icon": "https://cdn.jsdelivr.net/gh/buligadragos/UpTime@master/assets/favicons/oce.png",
     "slug": "our-collective-experience",
     "status": "down",
-    "uptime": "60.66%",
+    "uptime": "60.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 109,
+    "time": 101,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-15": 119,
+      "2025-11-16": 130,
+      "2025-11-15": 1440,
       "2025-11-14": 1440,
       "2025-11-13": 1440,
       "2025-11-12": 1440,
@@ -441,8 +442,7 @@
       "2024-11-20": 1440,
       "2024-11-19": 1440,
       "2024-11-18": 1440,
-      "2024-11-17": 1440,
-      "2024-11-16": 1440
+      "2024-11-17": 1440
     }
   },
   {
@@ -451,7 +451,7 @@
     "icon": "https://cdn.jsdelivr.net/gh/buligadragos/UpTime@master/assets/favicons/heartmap.png",
     "slug": "heart-map",
     "status": "down",
-    "uptime": "56.14%",
+    "uptime": "56.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -462,7 +462,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-15": 119,
+      "2025-11-16": 130,
+      "2025-11-15": 1440,
       "2025-11-14": 1440,
       "2025-11-13": 1440,
       "2025-11-12": 1440,
@@ -825,8 +826,7 @@
       "2024-11-20": 1440,
       "2024-11-19": 1440,
       "2024-11-18": 1440,
-      "2024-11-17": 1440,
-      "2024-11-16": 1440
+      "2024-11-17": 1440
     }
   }
 ]
