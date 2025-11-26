@@ -5,18 +5,19 @@
     "icon": "https://cdn.jsdelivr.net/gh/buligadragos/UpTime@master/assets/favicons/portfolio.png",
     "slug": "portfolio",
     "status": "down",
-    "uptime": "99.58%",
+    "uptime": "99.57%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "14.19%",
-    "uptimeMonth": "80.21%",
-    "uptimeYear": "98.27%",
-    "time": 441,
-    "timeDay": 299,
-    "timeWeek": 298,
-    "timeMonth": 389,
-    "timeYear": 455,
+    "uptimeWeek": "12.12%",
+    "uptimeMonth": "79.73%",
+    "uptimeYear": "98.23%",
+    "time": 440,
+    "timeDay": 177,
+    "timeWeek": 261,
+    "timeMonth": 385,
+    "timeYear": 454,
     "dailyMinutesDown": {
-      "2025-11-25": 1355,
+      "2025-11-26": 125,
+      "2025-11-25": 1440,
       "2025-11-24": 1440,
       "2025-11-23": 1440,
       "2025-11-22": 1440,
@@ -48,11 +49,11 @@
     "uptimeWeek": "98.25%",
     "uptimeMonth": "99.35%",
     "uptimeYear": "99.90%",
-    "time": 2181,
-    "timeDay": 2377,
-    "timeWeek": 2055,
+    "time": 2182,
+    "timeDay": 2250,
+    "timeWeek": 2053,
     "timeMonth": 2236,
-    "timeYear": 2273,
+    "timeYear": 2276,
     "dailyMinutesDown": {
       "2025-11-25": 22,
       "2025-11-23": 25,
@@ -90,7 +91,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-25": 1355,
+      "2025-11-26": 125,
+      "2025-11-25": 1440,
       "2025-11-24": 1440,
       "2025-11-23": 1440,
       "2025-11-22": 1440,
@@ -453,8 +455,7 @@
       "2024-11-30": 1440,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
-      "2024-11-27": 1440,
-      "2024-11-26": 1440
+      "2024-11-27": 1440
     }
   },
   {
@@ -466,13 +467,13 @@
     "uptime": "56.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "27.22%",
-    "uptimeYear": "2.43%",
-    "time": 834,
-    "timeDay": 676,
-    "timeWeek": 764,
-    "timeMonth": 834,
-    "timeYear": 834,
+    "uptimeMonth": "27.70%",
+    "uptimeYear": "2.47%",
+    "time": 773,
+    "timeDay": 225,
+    "timeWeek": 700,
+    "timeMonth": 773,
+    "timeYear": 773,
     "dailyMinutesDown": {
       "2025-11-17": 117,
       "2025-11-16": 1440,
@@ -829,8 +830,7 @@
       "2024-11-30": 1440,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
-      "2024-11-27": 1440,
-      "2024-11-26": 1440
+      "2024-11-27": 1440
     }
   }
 ]
