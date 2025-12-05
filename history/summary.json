@@ -8,7 +8,7 @@
     "uptime": "98.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "50.20%",
+    "uptimeMonth": "50.18%",
     "uptimeYear": "95.76%",
     "time": 438,
     "timeDay": 220,
@@ -16,7 +16,7 @@
     "timeMonth": 318,
     "timeYear": 450,
     "dailyMinutesDown": {
-      "2025-12-05": 119,
+      "2025-12-05": 127,
       "2025-12-04": 1440,
       "2025-12-03": 1440,
       "2025-12-02": 1440,
@@ -104,7 +104,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-05": 120,
+      "2025-12-05": 127,
       "2025-12-04": 1440,
       "2025-12-03": 1440,
       "2025-12-02": 1440,
@@ -478,7 +478,7 @@
     "slug": "heart-map",
     "status": "down",
     "uptime": "56.11%",
-    "uptimeDay": "9.38%",
+    "uptimeDay": "9.37%",
     "uptimeWeek": "6.43%",
     "uptimeMonth": "36.80%",
     "uptimeYear": "2.95%",
@@ -488,6 +488,7 @@
     "timeMonth": 1407,
     "timeYear": 1407,
     "dailyMinutesDown": {
+      "2025-12-05": 8,
       "2025-12-04": 1425,
       "2025-12-03": 1355,
       "2025-12-02": 1429,
