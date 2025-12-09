@@ -5,18 +5,19 @@
     "icon": "https://cdn.jsdelivr.net/gh/buligadragos/UpTime@master/assets/favicons/portfolio.png",
     "slug": "portfolio",
     "status": "down",
-    "uptime": "98.74%",
+    "uptime": "98.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "37.41%",
-    "uptimeYear": "94.70%",
+    "uptimeMonth": "37.04%",
+    "uptimeYear": "94.67%",
     "time": 437,
     "timeDay": 279,
     "timeWeek": 230,
     "timeMonth": 303,
     "timeYear": 448,
     "dailyMinutesDown": {
-      "2025-12-08": 1401,
+      "2025-12-09": 127,
+      "2025-12-08": 1440,
       "2025-12-07": 1440,
       "2025-12-06": 1440,
       "2025-12-05": 1440,
@@ -110,7 +111,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-08": 1401,
+      "2025-12-09": 127,
+      "2025-12-08": 1440,
       "2025-12-07": 1440,
       "2025-12-06": 1440,
       "2025-12-05": 1440,
@@ -473,8 +475,7 @@
       "2024-12-13": 1440,
       "2024-12-12": 1440,
       "2024-12-11": 1440,
-      "2024-12-10": 1440,
-      "2024-12-09": 1440
+      "2024-12-10": 1440
     }
   },
   {
@@ -483,7 +484,7 @@
     "icon": "https://cdn.jsdelivr.net/gh/buligadragos/UpTime@master/assets/favicons/heartmap.png",
     "slug": "heart-map",
     "status": "down",
-    "uptime": "56.34%",
+    "uptime": "56.33%",
     "uptimeDay": "36.56%",
     "uptimeWeek": "10.37%",
     "uptimeMonth": "38.66%",
@@ -494,7 +495,8 @@
     "timeMonth": 1309,
     "timeYear": 1309,
     "dailyMinutesDown": {
-      "2025-12-08": 874,
+      "2025-12-09": 127,
+      "2025-12-08": 913,
       "2025-12-07": 1329,
       "2025-12-06": 1398,
       "2025-12-05": 1188,
@@ -848,8 +850,7 @@
       "2024-12-13": 1440,
       "2024-12-12": 1440,
       "2024-12-11": 1440,
-      "2024-12-10": 1440,
-      "2024-12-09": 1440
+      "2024-12-10": 1440
     }
   }
 ]
