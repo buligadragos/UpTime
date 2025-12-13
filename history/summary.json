@@ -5,18 +5,19 @@
     "icon": "https://cdn.jsdelivr.net/gh/buligadragos/UpTime@master/assets/favicons/portfolio.png",
     "slug": "portfolio",
     "status": "down",
-    "uptime": "98.48%",
+    "uptime": "98.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "24.28%",
-    "uptimeYear": "93.60%",
+    "uptimeMonth": "23.89%",
+    "uptimeYear": "93.57%",
     "time": 436,
-    "timeDay": 53,
-    "timeWeek": 196,
-    "timeMonth": 278,
+    "timeDay": 184,
+    "timeWeek": 202,
+    "timeMonth": 273,
     "timeYear": 446,
     "dailyMinutesDown": {
-      "2025-12-12": 1393,
+      "2025-12-13": 124,
+      "2025-12-12": 1440,
       "2025-12-11": 1440,
       "2025-12-10": 1440,
       "2025-12-09": 1440,
@@ -65,11 +66,11 @@
     "uptimeWeek": "97.10%",
     "uptimeMonth": "98.39%",
     "uptimeYear": "99.80%",
-    "time": 2175,
-    "timeDay": 1704,
-    "timeWeek": 2085,
-    "timeMonth": 2111,
-    "timeYear": 2260,
+    "time": 2177,
+    "timeDay": 1814,
+    "timeWeek": 2104,
+    "timeMonth": 2120,
+    "timeYear": 2261,
     "dailyMinutesDown": {
       "2025-12-12": 46,
       "2025-12-11": 15,
@@ -118,7 +119,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-12": 1393,
+      "2025-12-13": 124,
+      "2025-12-12": 1440,
       "2025-12-11": 1440,
       "2025-12-10": 1440,
       "2025-12-09": 1440,
@@ -481,8 +483,7 @@
       "2024-12-17": 1440,
       "2024-12-16": 1440,
       "2024-12-15": 1440,
-      "2024-12-14": 1440,
-      "2024-12-13": 1440
+      "2024-12-14": 1440
     }
   },
   {
@@ -493,7 +494,7 @@
     "status": "down",
     "uptime": "56.23%",
     "uptimeDay": "10.51%",
-    "uptimeWeek": "12.14%",
+    "uptimeWeek": "12.07%",
     "uptimeMonth": "39.89%",
     "uptimeYear": "3.21%",
     "time": 1176,
@@ -502,7 +503,8 @@
     "timeMonth": 1176,
     "timeYear": 1176,
     "dailyMinutesDown": {
-      "2025-12-12": 1242,
+      "2025-12-13": 124,
+      "2025-12-12": 1289,
       "2025-12-11": 1399,
       "2025-12-10": 1183,
       "2025-12-09": 1352,
@@ -856,8 +858,7 @@
       "2024-12-17": 1440,
       "2024-12-16": 1440,
       "2024-12-15": 1440,
-      "2024-12-14": 1440,
-      "2024-12-13": 1440
+      "2024-12-14": 1440
     }
   }
 ]
