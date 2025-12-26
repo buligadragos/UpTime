@@ -16,7 +16,7 @@
     "timeMonth": 221,
     "timeYear": 441,
     "dailyMinutesDown": {
-      "2025-12-26": 575,
+      "2025-12-26": 589,
       "2025-12-25": 1440,
       "2025-12-24": 1440,
       "2025-12-23": 1440,
@@ -139,7 +139,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-26": 575,
+      "2025-12-26": 589,
       "2025-12-25": 1440,
       "2025-12-24": 1440,
       "2025-12-23": 1440,
@@ -511,12 +511,12 @@
     "url": "https://heartmap.buligadragos.work/",
     "icon": "https://cdn.jsdelivr.net/gh/buligadragos/UpTime@master/assets/favicons/heartmap.png",
     "slug": "heart-map",
-    "status": "up",
-    "uptime": "98.27%",
-    "uptimeDay": "4.21%",
-    "uptimeWeek": "3.88%",
-    "uptimeMonth": "14.32%",
-    "uptimeYear": "92.86%",
+    "status": "down",
+    "uptime": "98.30%",
+    "uptimeDay": "5.18%",
+    "uptimeWeek": "4.02%",
+    "uptimeMonth": "16.02%",
+    "uptimeYear": "93.00%",
     "time": 1050,
     "timeDay": 725,
     "timeWeek": 824,
@@ -551,7 +551,7 @@
       "2025-12-01": 1261,
       "2025-11-30": 1366,
       "2025-11-29": 1340,
-      "2025-11-28": 876
+      "2025-11-28": 128
     }
   }
 ]
