@@ -1,7 +1,7 @@
 url: https://gotoparking.ro
-status: up
-code: 200
-responseTime: 2449
-lastUpdated: 2026-06-23T23:59:03.089Z
+status: down
+code: 415
+responseTime: 576
+lastUpdated: 2026-06-24T04:38:15.940Z
 startTime: 2021-09-21T08:05:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
