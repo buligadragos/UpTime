@@ -11,7 +11,7 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "34.15%",
     "time": 354,
-    "timeDay": 330,
+    "timeDay": 489,
     "timeWeek": 225,
     "timeMonth": 176,
     "timeYear": 317,
@@ -27,7 +27,8 @@
       "2025-10-23": 70,
       "2025-10-22": 7,
       "2025-10-31": 22,
-      "2026-07-17": 1434,
+      "2026-07-18": 15,
+      "2026-07-17": 1440,
       "2026-07-16": 1440,
       "2026-07-15": 1440,
       "2026-07-14": 1440,
@@ -275,16 +276,16 @@
     "url": "https://gotoparking.ro",
     "icon": "https://cdn.jsdelivr.net/gh/buligadragos/UpTime@master/assets/favicons/gotoparking.png",
     "slug": "goto-parking",
-    "status": "down",
+    "status": "up",
     "uptime": "99.41%",
-    "uptimeDay": "75.46%",
-    "uptimeWeek": "88.83%",
-    "uptimeMonth": "84.28%",
+    "uptimeDay": "74.11%",
+    "uptimeWeek": "88.64%",
+    "uptimeMonth": "84.23%",
     "uptimeYear": "97.16%",
-    "time": 2012,
-    "timeDay": 1426,
-    "timeWeek": 1669,
-    "timeMonth": 1689,
+    "time": 2011,
+    "timeDay": 1388,
+    "timeWeek": 1634,
+    "timeMonth": 1688,
     "timeYear": 1979,
     "dailyMinutesDown": {
       "2026-04-10": 50,
@@ -345,7 +346,8 @@
       "2026-07-13": 275,
       "2026-07-14": 244,
       "2026-07-15": 73,
-      "2026-07-17": 353
+      "2026-07-17": 358,
+      "2026-07-18": 14
     }
   },
   {
@@ -365,7 +367,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-17": 1435,
+      "2026-07-18": 15,
+      "2026-07-17": 1440,
       "2026-07-16": 1440,
       "2026-07-15": 1440,
       "2026-07-14": 1440,
@@ -728,8 +731,7 @@
       "2025-07-22": 1440,
       "2025-07-21": 1440,
       "2025-07-20": 1440,
-      "2025-07-19": 1440,
-      "2025-07-18": 1440
+      "2025-07-19": 1440
     }
   },
   {
@@ -738,7 +740,7 @@
     "icon": "https://cdn.jsdelivr.net/gh/buligadragos/UpTime@master/assets/favicons/heartmap.png",
     "slug": "heart-map",
     "status": "down",
-    "uptime": "86.65%",
+    "uptime": "86.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -777,7 +779,8 @@
       "2025-12-24": 1367,
       "2025-12-25": 1401,
       "2025-12-26": 1335,
-      "2026-07-17": 1435,
+      "2026-07-18": 15,
+      "2026-07-17": 1440,
       "2026-07-16": 1440,
       "2026-07-15": 1440,
       "2026-07-14": 1440,
